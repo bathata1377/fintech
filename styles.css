@@ -1,0 +1,49 @@
+body {
+    font-family:arial;
+    min-height: 100px;
+    background-color: #F8EFFE;
+    position: relative;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    -ms-flex-align: center;
+    justify-content: center;
+}
+
+button {
+    font-family:arial;
+    background-color: #4E0E76;
+    height: inherit;
+    border-color:#4E0E76;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    size: 40px;
+    font-size: 25px;
+    color: white;
+}
+
+form {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+section {
+    background-color: #4e0e762a;
+}
+
+body div img{
+   width: 100px;
+   height: 100px
+}
+
+form div img{
+    width: 35px;
+    height: 35px
+ }
+
+body div footer img{
+    width: 45px;
+    height: 45px
+}
